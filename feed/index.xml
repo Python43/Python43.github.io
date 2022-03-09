@@ -8,36 +8,24 @@
 	>
 
 <channel>
-	<title>Ottaris Studio</title>
+	<title></title>
 	<atom:link href="https://Python43.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://Python43.github.io</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 09 Mar 2022 16:17:37 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Wed, 09 Mar 2022 16:45:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.1</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>https://Python43.github.io/2022/03/09/hello-world/</link>
-					<comments>https://Python43.github.io/2022/03/09/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[root@pc]]></dc:creator>
-		<pubDate>Wed, 09 Mar 2022 16:17:37 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://Python43.github.io/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://Python43.github.io/2022/03/09/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+<image>
+	<url>https://Python43.github.io/wp-content/uploads/2022/03/minilogo.png</url>
+	<title></title>
+	<link>https://Python43.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
 </rss>
