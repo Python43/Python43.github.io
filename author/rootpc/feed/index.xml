@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Uncategorized Archives - Ottaris Studio</title>
-	<atom:link href="https://ottarisstudio.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<title>root@pc, Author at Ottaris Studio</title>
+	<atom:link href="https://ottarisstudio.com/author/rootpc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ottarisstudio.com</link>
 	<description></description>
 	<lastBuildDate>Fri, 20 May 2022 12:39:37 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://ottarisstudio.com/wp-content/uploads/2022/05/minilogoGoogle.png</url>
-	<title>Uncategorized Archives - Ottaris Studio</title>
+	<title>root@pc, Author at Ottaris Studio</title>
 	<link>https://ottarisstudio.com</link>
 	<width>32</width>
 	<height>32</height>

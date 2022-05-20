@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title></title>
-	<atom:link href="https://Python43.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://Python43.github.io</link>
+	<title>Ottaris Studio</title>
+	<atom:link href="https://ottarisstudio.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ottarisstudio.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Apr 2022 14:04:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 May 2022 12:39:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,11 +21,47 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
-	<url>https://Python43.github.io/wp-content/uploads/2022/03/minilogo.png</url>
-	<title></title>
-	<link>https://Python43.github.io</link>
+	<url>https://ottarisstudio.com/wp-content/uploads/2022/05/minilogoGoogle.png</url>
+	<title>Ottaris Studio</title>
+	<link>https://ottarisstudio.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Welcome to our blog</title>
+		<link>https://ottarisstudio.com/2022/05/20/welcome-to-our-blog/</link>
+					<comments>https://ottarisstudio.com/2022/05/20/welcome-to-our-blog/#respond</comments>
+		
+		<dc:creator><![CDATA[root@pc]]></dc:creator>
+		<pubDate>Fri, 20 May 2022 12:37:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://ottarisstudio.com/?p=97</guid>
+
+					<description><![CDATA[<p>In the following weeks we will be posting different advices on how to improve your brand image and other useful</p>
+<p><a href="https://ottarisstudio.com/2022/05/20/welcome-to-our-blog/" class="more-link">Continue reading<span class="screen-reader-text">Welcome to our blog</span></a></p>
+<p>The post <a rel="nofollow" href="https://ottarisstudio.com/2022/05/20/welcome-to-our-blog/">Welcome to our blog</a> appeared first on <a rel="nofollow" href="https://ottarisstudio.com">Ottaris Studio</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In the following weeks we will be posting different advices on how to improve your brand image and other useful content. If you find our posts interesting, please consider following us on our social media, since we will notify everyone there when a new post is published.</p>
+
+
+
+<p>Thanks for dropping by</p>
+
+
+
+<ul class="wp-container-1 wp-block-social-links"></ul>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="https://ottarisstudio.com/2022/05/20/welcome-to-our-blog/">Welcome to our blog</a> appeared first on <a rel="nofollow" href="https://ottarisstudio.com">Ottaris Studio</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ottarisstudio.com/2022/05/20/welcome-to-our-blog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
